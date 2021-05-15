@@ -14,7 +14,7 @@ body{
 
 .profile-header .profile-header-cover {
     height: 390px;
-    background-image: url(/public/image/background/wallpaper2.png);
+    background-image: url('http://www.uplevo.com/img/designbox/anh-bia-dep-sai-gon.jpg');
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
